@@ -1,1 +1,4 @@
-Executable File·0 lines (0 loc) · 0 Bytes
+#!/usr/bin/python3
+'''
+    Package initializer
+'''
